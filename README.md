@@ -13,3 +13,5 @@ Learning Licence copy.
 example Licence copy: [JohnLC.txt](https://github.com/Mandip17IT009/RTO-EXAM-TEST/blob/master/johnLC.txt) 
 
 
+This app is ceated only for learning purpose only.
+
